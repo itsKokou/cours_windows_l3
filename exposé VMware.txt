@@ -1,0 +1,54 @@
+
+*Introduction : Présentation de la virtualisation*
+      1. Explication et Définition du concept de virtualisation
+      2. Introduction de VMware ESXi comme solution de virtualisation
+
+*I. Definition de VMware ESXi *
+
+*II. Information sur VMware ESXi*
+   A. Qu'est ce que VMware ESXi ?
+      1. Historique et évolution
+      2. Caractéristiques clés
+   B. Avantages et Inconvenients de l'utilisation de VMware ESXi
+      1. Avantages
+ 	Efficacité des ressources
+        Isolation des machines virtuelles
+        etc...
+      2. Inconvenients 
+         Complexité de la configuration et de la gestion 
+         Besoin de matériel compatible pour une performance optimale
+         Limitations de fonctionnalités par rapport à d'autres solutions de virtualisation, etc...
+    C. Sécurité dans VMware ESXi
+      1. Authentification et contrôle d'accès
+      2. Isolation des machines virtuelles
+
+*III. Solution (Installation) de VMware ESXi*
+   A. Configuration matérielle requise
+      1. Prérequis pour l'installation
+      2. Compatibilité matérielle
+   B. Processus d'installation de VMware ESXi
+      1. Téléchargement et préparation de l'installation
+      2. Installation pas à pas
+
+*IV. Application de VMware ESXi*
+      1. Consolidation de serveurs 
+      2. Laboratoires de test et de développement
+      3. Serveurs de production
+      4. Services cloud
+
+
+*Conclusion*
+   Résumé du travail
+
+
+===========================================================================
+
+Voici quelques scénarios d'utilisation courante de VMware ESXi :
+
+Consolidation de serveurs : VMware ESXi permet de consolider plusieurs serveurs physiques en une seule machine virtuelle, ce qui permet d'optimiser les ressources matérielles et de réduire les coûts d'exploitation.
+
+Laboratoires de test et de développement : Les administrateurs système et les développeurs utilisent souvent VMware ESXi pour créer des environnements de test et de développement isolés, où ils peuvent expérimenter de nouvelles configurations et applications sans risquer d'endommager les systèmes de production.
+
+Serveurs de production : VMware ESXi est largement utilisé pour héberger des serveurs de production, tels que des serveurs web, des bases de données et des applications métier critiques, en garantissant une haute disponibilité et une performance optimale.
+
+Services cloud : De nombreuses entreprises utilisent VMware ESXi pour créer des infrastructures cloud privées, publiques ou hybrides, offrant des services de calcul, de stockage et de réseau virtualisés à leurs utilisateurs.
